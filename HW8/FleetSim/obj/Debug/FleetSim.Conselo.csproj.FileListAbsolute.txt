@@ -1,0 +1,3 @@
+C:\CC7\Homeworks\HM8\FleetSim\obj\Debug\FleetSim.Conselo.csproj.CoreCompileInputs.cache
+C:\CC7\Homeworks\HM8\FleetSim\obj\Debug\FleetSim.exe
+C:\CC7\Homeworks\HM8\FleetSim\obj\Debug\FleetSim.pdb
